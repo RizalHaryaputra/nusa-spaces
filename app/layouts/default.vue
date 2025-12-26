@@ -25,7 +25,7 @@
 
     <footer class="bg-slate-900 text-white py-8 mt-auto">
       <div class="container mx-auto px-6 text-center">
-        <p class="mb-2 text-gray-400">© 2024 Velox Journey. Private Trip Specialist.</p>
+        <p class="mb-2 text-gray-400">© {{ new Date().getFullYear() }} Velox Journey. Private Trip Specialist.</p>
         <div class="flex justify-center gap-4 text-sm text-gray-500">
           <span class="cursor-pointer hover:text-white">Instagram</span>
           <span class="cursor-pointer hover:text-white">WhatsApp</span>
