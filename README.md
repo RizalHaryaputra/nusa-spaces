@@ -45,7 +45,7 @@ velox-journey/
 │   └── plugins/      # Plugin pihak ketiga (AOS)
 ├── public/           # Aset statis (Gambar, Logo)
 └── nuxt.config.ts    # Konfigurasi utama Nuxt
-
+```
 ---
 
 ## 🚀 Cara Menjalankan (Local)
@@ -56,20 +56,23 @@ Pastikan **Node.js** sudah terinstall di komputer Anda.
 ```bash
 git clone https://github.com/RizalHaryaputra/velox-journey.git
 cd velox-journey
+```
 
 ### 2️⃣ Install Dependencies
 ```bash
 npm install
+```
 
 ### 3️⃣ Jalankan Development Server
 ```bash
 npm run dev
+```
 
 ### 4️⃣ Buka di Browser
 Buka alamat berikut di browser Anda:
 ```bash
 http://localhost:3000
-
+```
 
 ## 👤 Author
 Rizal Haryaputra
